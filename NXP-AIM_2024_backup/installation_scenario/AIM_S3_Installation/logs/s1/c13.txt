@@ -1,0 +1,28 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libwpe-1.0-1 libwpebackend-fdo-1.0-1
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  brz bzr libapr1 libaprutil1 libserf-1-1 libsvn1 libutf8proc2 mercurial
+  mercurial-common python3-bloom python3-breezy python3-colcon-mixin
+  python3-deprecated python3-dulwich python3-fastbencode python3-fastimport
+  python3-github python3-gitlab python3-gpg python3-patiencediff
+  python3-requests-toolbelt python3-rosdistro python3-vcstools python3-wrapt
+  ros-build-essential subversion
+Suggested packages:
+  brz-doc python3-breezy.tests qct python3-mysqldb python3-openssl
+  python3-breezy-dbg python3-kerberos python-gitlab-doc db5.3-util
+  libapache2-mod-svn subversion-tools
+The following NEW packages will be installed:
+  brz bzr libapr1 libaprutil1 libserf-1-1 libsvn1 libutf8proc2 mercurial
+  mercurial-common python3-bloom python3-breezy python3-colcon-mixin
+  python3-deprecated python3-dulwich python3-fastbencode python3-fastimport
+  python3-github python3-gitlab python3-gpg python3-patiencediff
+  python3-requests-toolbelt python3-rosdistro python3-vcstools python3-wrapt
+  ros-build-essential ros-dev-tools subversion
+0 upgraded, 27 newly installed, 0 to remove and 12 not upgraded.
+Need to get 8,771 kB of archives.
+After this operation, 45.1 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Abort.

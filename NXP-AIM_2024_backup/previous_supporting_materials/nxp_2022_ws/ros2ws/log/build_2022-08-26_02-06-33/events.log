@@ -1,0 +1,53 @@
+[0.000000] (-) TimerEvent: {}
+[0.000046] (-) JobUnselected: {'identifier': 'gazebo_models'}
+[0.000070] (-) JobUnselected: {'identifier': 'nxp_cup_interfaces'}
+[0.000086] (-) JobUnselected: {'identifier': 'sim_gazebo_bringup'}
+[0.000101] (nxp_cup_vision) JobQueued: {'identifier': 'nxp_cup_vision', 'dependencies': OrderedDict([('nxp_cup_interfaces', '/home/trish/ros2ws/install/nxp_cup_interfaces')])}
+[0.000121] (nxp_cup_vision) JobStarted: {'identifier': 'nxp_cup_vision'}
+[0.099153] (-) TimerEvent: {}
+[0.199384] (-) TimerEvent: {}
+[0.299707] (-) TimerEvent: {}
+[0.399948] (-) TimerEvent: {}
+[0.500165] (-) TimerEvent: {}
+[0.600361] (-) TimerEvent: {}
+[0.700552] (-) TimerEvent: {}
+[0.797027] (nxp_cup_vision) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'develop', '--prefix', '/home/trish/ros2ws/install/nxp_cup_vision', '--editable', '--build-directory', '/home/trish/ros2ws/build/nxp_cup_vision/build', '--no-deps', 'install_data', '--install-dir', '/home/trish/ros2ws/install/nxp_cup_vision'], 'cwd': '/home/trish/ros2ws/build/nxp_cup_vision', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_IN:en', 'USER': 'trish', 'SSH_AGENT_PID': '1570', 'XDG_SESSION_TYPE': 'x11', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/trish/ros2ws/install/nxp_cup_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'HOME': '/home/trish', 'OLDPWD': '/home/trish/ros2ws/src', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'MANAGERPID': '1365', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'COLCON_PREFIX_PATH': '/home/trish/ros2ws/install', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'trish', 'JOURNAL_STREAM': '8:44680', '_': '/opt/ros/foxy/bin/ros2', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'trish', 'TERM': 'xterm-256color', 'GAZEBO_MODEL_PATH': '/home/trish/ros2ws/osrf/models:/home/trish/ros2ws/nxp_gazebo/models:/tmp/gazebo/models', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/trish:@/tmp/.ICE-unix/1624,unix/trish:/tmp/.ICE-unix/1624', 'INVOCATION_ID': '90d42117a73c49b89af2344a6d487403', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/d64a9d7a_e9df_4e8d_96ec_65851f69fe1b', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_IN', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.183', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/trish/ros2ws/install/nxp_cup_interfaces:/home/trish/ros2ws/install/sim_gazebo_bringup:/opt/ros/foxy', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'GJS_DEBUG_OUTPUT': 'stderr', 'GAZEBO_RESOURCE_PATH': '/usr/share/gazebo-11:/home/trish/ros2ws/osrf:/home/trish/ros2ws/nxp_gazebo:/tmp/gazebo', 'QT_IM_MODULE': 'ibus', 'GAZEBO_MODEL_DATABASE_URI': '', 'PWD': '/home/trish/ros2ws/build/nxp_cup_vision', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'GAZEBO_PLUGIN_PATH': '/opt/ros/foxy/lib', 'PYTHONPATH': '/home/trish/ros2ws/install/nxp_cup_vision/lib/python3.8/site-packages:/home/trish/ros2ws/install/nxp_cup_interfaces/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1', 'VTE_VERSION': '6003', 'CMAKE_PREFIX_PATH': '/home/trish/ros2ws/install/nxp_cup_interfaces:/home/trish/ros2ws/install/sim_gazebo_bringup'}, 'shell': False}
+[0.800667] (-) TimerEvent: {}
+[0.900843] (-) TimerEvent: {}
+[1.001042] (-) TimerEvent: {}
+[1.081031] (nxp_cup_vision) StdoutLine: {'line': b'running develop\n'}
+[1.101168] (-) TimerEvent: {}
+[1.201352] (-) TimerEvent: {}
+[1.246696] (nxp_cup_vision) StdoutLine: {'line': b'running egg_info\n'}
+[1.246855] (nxp_cup_vision) StdoutLine: {'line': b'creating nxp_cup_vision.egg-info\n'}
+[1.255659] (nxp_cup_vision) StdoutLine: {'line': b'writing nxp_cup_vision.egg-info/PKG-INFO\n'}
+[1.255948] (nxp_cup_vision) StdoutLine: {'line': b'writing dependency_links to nxp_cup_vision.egg-info/dependency_links.txt\n'}
+[1.256306] (nxp_cup_vision) StdoutLine: {'line': b'writing entry points to nxp_cup_vision.egg-info/entry_points.txt\n'}
+[1.256400] (nxp_cup_vision) StdoutLine: {'line': b'writing requirements to nxp_cup_vision.egg-info/requires.txt\n'}
+[1.256456] (nxp_cup_vision) StdoutLine: {'line': b'writing top-level names to nxp_cup_vision.egg-info/top_level.txt\n'}
+[1.257148] (nxp_cup_vision) StdoutLine: {'line': b"writing manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'\n"}
+[1.276170] (nxp_cup_vision) StdoutLine: {'line': b"reading manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'\n"}
+[1.276671] (nxp_cup_vision) StdoutLine: {'line': b"writing manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'\n"}
+[1.301474] (-) TimerEvent: {}
+[1.317972] (nxp_cup_vision) StdoutLine: {'line': b'running build_ext\n'}
+[1.318103] (nxp_cup_vision) StdoutLine: {'line': b'Creating /home/trish/ros2ws/install/nxp_cup_vision/lib/python3.8/site-packages/nxp-cup-vision.egg-link (link to .)\n'}
+[1.318572] (nxp_cup_vision) StdoutLine: {'line': b'Installing nxp_track_vision script to /home/trish/ros2ws/install/nxp_cup_vision/lib/nxp_cup_vision\n'}
+[1.318915] (nxp_cup_vision) StdoutLine: {'line': b'\n'}
+[1.319086] (nxp_cup_vision) StdoutLine: {'line': b'Installed /home/trish/ros2ws/build/nxp_cup_vision\n'}
+[1.319166] (nxp_cup_vision) StdoutLine: {'line': b'running install_data\n'}
+[1.319487] (nxp_cup_vision) StdoutLine: {'line': b'creating /home/trish/ros2ws/install/nxp_cup_vision/share/ament_index\n'}
+[1.319546] (nxp_cup_vision) StdoutLine: {'line': b'creating /home/trish/ros2ws/install/nxp_cup_vision/share/ament_index/resource_index\n'}
+[1.319599] (nxp_cup_vision) StdoutLine: {'line': b'creating /home/trish/ros2ws/install/nxp_cup_vision/share/ament_index/resource_index/packages\n'}
+[1.319650] (nxp_cup_vision) StdoutLine: {'line': b'copying resource/nxp_cup_vision -> /home/trish/ros2ws/install/nxp_cup_vision/share/ament_index/resource_index/packages\n'}
+[1.319700] (nxp_cup_vision) StdoutLine: {'line': b'copying package.xml -> /home/trish/ros2ws/install/nxp_cup_vision/share/nxp_cup_vision\n'}
+[1.319758] (nxp_cup_vision) StderrLine: {'line': b'/home/trish/.local/lib/python3.8/site-packages/setuptools/command/easy_install.py:144: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.\n'}
+[1.319835] (nxp_cup_vision) StderrLine: {'line': b'  warnings.warn(\n'}
+[1.319886] (nxp_cup_vision) StderrLine: {'line': b'/home/trish/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.\n'}
+[1.319939] (nxp_cup_vision) StderrLine: {'line': b'  warnings.warn(\n'}
+[1.319987] (nxp_cup_vision) StderrLine: {'line': b'/home/trish/.local/lib/python3.8/site-packages/pkg_resources/__init__.py:123: PkgResourcesDeprecationWarning: 0.1.36ubuntu1 is an invalid version and will not be supported in a future release\n'}
+[1.320036] (nxp_cup_vision) StderrLine: {'line': b'  warnings.warn(\n'}
+[1.320084] (nxp_cup_vision) StderrLine: {'line': b'/home/trish/.local/lib/python3.8/site-packages/pkg_resources/__init__.py:123: PkgResourcesDeprecationWarning: 0.23ubuntu1 is an invalid version and will not be supported in a future release\n'}
+[1.320133] (nxp_cup_vision) StderrLine: {'line': b'  warnings.warn(\n'}
+[1.362075] (nxp_cup_vision) CommandEnded: {'returncode': 0}
+[1.377459] (nxp_cup_vision) JobEnded: {'identifier': 'nxp_cup_vision', 'rc': 0}
+[1.377751] (-) EventReactorShutdown: {}

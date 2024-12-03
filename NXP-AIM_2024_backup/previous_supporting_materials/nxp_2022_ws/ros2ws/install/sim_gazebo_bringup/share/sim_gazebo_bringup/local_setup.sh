@@ -1,0 +1,1 @@
+/home/trish/ros2ws/build/sim_gazebo_bringup/ament_cmake_environment_hooks/local_setup.sh

@@ -1,0 +1,590 @@
+
+
+                            [0m[38;5;252m              ▄▄▄▄▄▄▄▄
+[2;34m         ▄▄▄▄▄ [2;33m▄▄▄▄▄[0m[38;5;252m                    ▀▀▀▀▀▀▀▀▀
+[2;34m     ▄███████▀[2;33m▄██████▄[0m[38;5;252m   ▀█████████████████████▀
+[2;34m  ▄██████████ [2;33m████████[31m ▄[0m[38;5;249m   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[2;34m ███████████▀ [2;33m███████▀[31m ██[0m[38;5;249m   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+[2;34m█████████▀   [2;33m▀▀▀▀▀▀▀▀[31m ████[0m[38;5;246m   ▀███████████▀
+[2;34m▀█████▀ [2;32m▄▄███████████▄[31m ████[0m[38;5;243m   ▄▄▄▄▄▄▄▄▄
+[2;34m  ▀▀▀ [2;32m███████████████▀[31m ████[0m[38;5;243m   ▀▀▀▀▀▀▀▀
+       [2;32m▀▀█████▀▀▀▀▀▀[31m  ▀▀▀▀[0m[38;5;240m   ▄█████▀
+              [2;90m ████████▀    ▄▄▄
+              [2;90m ▀███▀       ▀▀▀
+              [2;90m  ▀▀      [0m
+╔═══╗╔═══╗╔═══╗╔═╗ ╔╗╔══╗╔═══╗╔══╗╔╗   ╔═══╗╔════╗
+║╔═╗║║╔═╗║║╔═╗║║║║ ║║╚╣╠╝║╔═╗║╚╣╠╝║║   ║╔═╗║║╔╗╔╗║
+║║ ╚╝║║ ║║║║ ╚╝║║╚╗║║ ║║ ║║ ║║ ║║ ║║   ║║ ║║╚╝║║╚╝
+║║   ║║ ║║║║╔═╗║╔╗╚╝║ ║║ ║╚═╝║ ║║ ║║   ║║ ║║  ║║  
+║║ ╔╗║║ ║║║║╚╗║║║╚╗║║ ║║ ║╔══╝ ║║ ║║ ╔╗║║ ║║  ║║  
+║╚═╝║║╚═╝║║╚═╝║║║ ║║║╔╣╠╗║║   ╔╣╠╗║╚═╝║║╚═╝║ ╔╝╚╗ 
+╚═══╝╚═══╝╚═══╝╚╝ ╚═╝╚══╝╚╝   ╚══╝╚═══╝╚═══╝ ╚══╝ 
+[38;5;252m	  _____   _              [0m
+[38;5;252m	 (_____) (_) _           [0m
+[38;5;250m	(_)___(_) _ (_)__  _   _ [0m
+[38;5;248m	(_______)(_)(____)(_) (_)[0m
+[38;5;246m	(_)   (_)(_)(_)   (_)_(_)[0m
+[38;5;244m	(_)   (_)(_)(_)    (____)[0m
+[38;5;242m	                    __(_)[0m
+[38;5;240m	                   (___) [0m
+
+
+[2;32mWelcome to the CogniPilot airy workspace builder - Ctrl-c at any time to exit.[0m
+
+[2;32mUsing git with ssh, best for developers.[0m
+[2;32mBuilding platform b3rb.
+[0m
+[2;34mBUILD:[0m[2;32m Checking helmet version, updating if needed.[0m
+Already up to date.
+[2;34mBUILD:[0m[2;32m Importing helmet/dream/base.yaml[0m
+............
+=== ./cranium/src/cerebri_bringup (git) ===
+Cloning into '.'...
+=== ./cranium/src/corti (git) ===
+Cloning into '.'...
+=== ./cranium/src/dream_world (git) ===
+Cloning into '.'...
+=== ./cranium/src/synapse_gz (git) ===
+Cloning into '.'...
+=== ./cranium/src/synapse_msgs (git) ===
+Cloning into '.'...
+=== ./cranium/src/synapse_protobuf (git) ===
+Cloning into '.'...
+=== ./cranium/src/synapse_ros (git) ===
+Cloning into '.'...
+=== ./cranium/src/synapse_tinyframe (git) ===
+Cloning into '.'...
+=== ./electrode/foxglove-cognipilot-joy (git) ===
+Cloning into '.'...
+=== ./electrode/src/electrode (git) ===
+Cloning into '.'...
+=== ./tools/src/cyecca (git) ===
+Cloning into '.'...
+=== ./ws/cerebri (git) ===
+Cloning into '.'...
+[2;34mBUILD:[0m[2;32m Importing helmet/dream/b3rb.yaml[0m
+...
+=== ./cranium/src/b3rb (git) ===
+Cloning into '.'...
+=== ./cranium/src/b3rb_desktop (git) ===
+Cloning into '.'...
+=== ./cranium/src/b3rb_simulator (git) ===
+Cloning into '.'...
+[2;34mBUILD:[0m[2;32m Updating all existing packages in cranium[0m
+...........
+=== ./src/b3rb (git) ===
+Already up to date.
+=== ./src/b3rb_desktop (git) ===
+Already up to date.
+=== ./src/b3rb_simulator (git) ===
+Already up to date.
+=== ./src/cerebri_bringup (git) ===
+Already up to date.
+=== ./src/corti (git) ===
+Already up to date.
+=== ./src/dream_world (git) ===
+Already up to date.
+=== ./src/synapse_gz (git) ===
+Already up to date.
+=== ./src/synapse_msgs (git) ===
+Already up to date.
+=== ./src/synapse_protobuf (git) ===
+Already up to date.
+=== ./src/synapse_ros (git) ===
+Already up to date.
+=== ./src/synapse_tinyframe (git) ===
+Already up to date.
+[2;34mBUILD:[0m[2;32m Running colcon to build cranium ROS packages[0m
+Starting >>> synapse_msgs
+Starting >>> synapse_protobuf
+Starting >>> synapse_tinyframe
+Starting >>> b3rb_gz_bringup
+Starting >>> b3rb_gz_resource
+Starting >>> b3rb_rviz
+Starting >>> b3rb_description
+Starting >>> b3rb_nav2
+Starting >>> cerebri_bringup
+Starting >>> dream_world
+Finished <<< cerebri_bringup [1.92s]
+Finished <<< b3rb_rviz [1.94s]
+Finished <<< b3rb_gz_bringup [1.96s]
+Starting >>> b3rb_desktop
+Finished <<< b3rb_gz_resource [1.99s]
+Starting >>> b3rb_simulator
+Finished <<< b3rb_description [2.04s]
+Finished <<< b3rb_nav2 [2.07s]
+Finished <<< synapse_tinyframe [3.26s]
+Finished <<< dream_world [4.75s]
+Finished <<< b3rb_simulator [3.99s]
+Finished <<< b3rb_desktop [4.05s]
+Finished <<< synapse_protobuf [8.37s]
+Starting >>> synapse_gz
+Finished <<< synapse_msgs [10.3s]
+Starting >>> corti
+Starting >>> synapse_ros
+Finished <<< synapse_gz [13.6s]
+Finished <<< corti [14.5s]
+Finished <<< synapse_ros [39.1s]
+
+Summary: 15 packages finished [49.7s]
+[2;34mBUILD:[0m[2;32m Updating Cerebri and checking west workspace[0m
+=== . (git) ===
+Already up to date.
+[2;34mBUILD:[0m[2;32m Initializing west workspace[0m
+=== Initializing from existing manifest repository cerebri
+--- Creating /home/mohit/cognipilot/ws/.west and local configuration file
+=== Initialized. Now run "west update" inside /home/mohit/cognipilot/ws.
+[2;34mBUILD:[0m[2;32m Updating west workspace[0m
+=== updating zephyr (zephyr):
+--- zephyr: initializing
+Initialized empty Git repository in /home/mohit/cognipilot/ws/zephyr/.git/
+--- zephyr: fetching, need revision 041076e5961152a3dee7ef6de8dd502ae3269940
+=== updating synapse_tinyframe (modules/lib/synapse_tinyframe):
+--- synapse_tinyframe: initializing
+Initialized empty Git repository in /home/mohit/cognipilot/ws/modules/lib/synapse_tinyframe/.git/
+--- synapse_tinyframe: fetching, need revision 672c6d30d5e8cc24f720edd3b915889dc0bc5fab
+=== updating synapse_protobuf (modules/lib/synapse_protobuf):
+--- synapse_protobuf: initializing
+Initialized empty Git repository in /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/.git/
+--- synapse_protobuf: fetching, need revision a161990062d4ed40ea4b39d66877a45f340eb622
+=== updating ubxlib (modules/lib/ubxlib):
+--- ubxlib: initializing
+Initialized empty Git repository in /home/mohit/cognipilot/ws/modules/lib/ubxlib/.git/
+--- ubxlib: fetching, need revision 0e8c66196a9366acf70fb7cfa5a2eaec6647e89d
+=== updating nanopb (modules/lib/nanopb):
+--- nanopb: initializing
+Initialized empty Git repository in /home/mohit/cognipilot/ws/modules/lib/nanopb/.git/
+--- nanopb: fetching, need revision 42fa8b211e946b90b9d968523fce7b1cfe27617e
+=== updating cmsis (modules/hal/cmsis):
+--- cmsis: initializing
+Initialized empty Git repository in /home/mohit/cognipilot/ws/modules/hal/cmsis/.git/
+--- cmsis: fetching, need revision 4b96cbb174678dcd3ca86e11e1f24bc5f8726da0
+=== updating hal_nxp (modules/hal/nxp):
+--- hal_nxp: initializing
+Initialized empty Git repository in /home/mohit/cognipilot/ws/modules/hal/nxp/.git/
+--- hal_nxp: fetching, need revision 2a294b540c09b36f7cddece44d25628bfde5970e
+=== updating mbedtls (modules/crypto/mbedtls):
+--- mbedtls: initializing
+Initialized empty Git repository in /home/mohit/cognipilot/ws/modules/crypto/mbedtls/.git/
+--- mbedtls: fetching, need revision 7053083b0cff8462464e3cbb826e87852fc03da6
+[2;34mBUILD:[0m[2;32m Building SIL cerebri image for b3rb[0m
+-- west build: generating a build system
+-- Application: /home/mohit/cognipilot/ws/cerebri/app/b3rb
+-- CMake version: 3.22.1
+-- Found Python3: /opt/.venv-zephyr/bin/python3 (found suitable version "3.10.12", minimum required is "3.8") found components: Interpreter 
+-- Cache files will be written to: /home/mohit/.cache/zephyr
+-- Zephyr version: 3.5.99 (/home/mohit/cognipilot/ws/zephyr)
+-- Found west (found suitable version "1.2.0", minimum required is "0.14.0")
+-- Board: native_sim
+-- ZEPHYR_TOOLCHAIN_VARIANT not set, trying to locate Zephyr SDK
+-- Found host-tools: zephyr 0.16.4 (/opt/toolchains/zephyr-sdk-0.16.4)
+-- Found toolchain: host (gcc/ld)
+-- Found Dtc: /opt/toolchains/zephyr-sdk-0.16.4/sysroots/x86_64-pokysdk-linux/usr/bin/dtc (found suitable version "1.6.0", minimum required is "1.4.6") 
+-- Found BOARD.dts: /home/mohit/cognipilot/ws/zephyr/boards/posix/native_sim/native_sim.dts
+-- Found devicetree overlay: /home/mohit/cognipilot/ws/cerebri/app/b3rb/boards/native_sim.overlay
+-- Generated zephyr.dts: /home/mohit/cognipilot/ws/cerebri/build/zephyr/zephyr.dts
+-- Generated devicetree_generated.h: /home/mohit/cognipilot/ws/cerebri/build/zephyr/include/generated/devicetree_generated.h
+-- Including generated dts.cmake file: /home/mohit/cognipilot/ws/cerebri/build/zephyr/dts.cmake
+Parsing /home/mohit/cognipilot/ws/cerebri/app/b3rb/Kconfig
+Loaded configuration '/home/mohit/cognipilot/ws/zephyr/boards/posix/native_sim/native_sim_defconfig'
+Merged configuration '/home/mohit/cognipilot/ws/cerebri/app/b3rb/prj.conf'
+Merged configuration '/home/mohit/cognipilot/ws/cerebri/app/b3rb/boards/native_sim.conf'
+Configuration saved to '/home/mohit/cognipilot/ws/cerebri/build/zephyr/.config'
+Kconfig header saved to '/home/mohit/cognipilot/ws/cerebri/build/zephyr/include/generated/autoconf.h'
+-- Found GnuLd: /usr/bin/ld.bfd (found version "2.38") 
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/gcc
+-- Found Nanopb: /home/mohit/cognipilot/ws/modules/lib/nanopb  
+-- Found protoc: /usr/bin/protoc
+-- files:/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/actuators.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/altimeter.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/battery_state.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/bezier_curve.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/bezier_trajectory.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/can.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/header.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/imu.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/joy.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/led.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/led_array.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/magnetic_field.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/nav_sat_fix.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/nav_sat_status.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/odometry.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/point.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/pose.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/pose_with_covariance.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/quaternion.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/safety.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/sim_clock.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/status.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/time.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/twist.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/twist_with_covariance.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/vector3.proto;/home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/wheel_odometry.proto
+-- srcs:
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mohit/cognipilot/ws/cerebri/build
+-- west build: running target install
+[1/365] Preparing syscall dependency handling
+
+[2/365] Generating nanopb/generator/nanopb_generator.py, nanopb/generator/proto/nanopb.proto
+[3/365] Generating nanopb/generator/proto/nanopb_pb2.py
+[4/365] Generating misc/generated/syscalls_subdirs.trigger
+[5/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/header.proto
+[6/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/joy.proto
+[7/365] Generating misc/generated/syscalls.json, misc/generated/struct_tags.json
+[8/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/magnetic_field.proto
+[9/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/altimeter.proto
+[10/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/led.proto
+[11/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/imu.proto
+[12/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/bezier_trajectory.proto
+[13/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/battery_state.proto
+[14/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/actuators.proto
+[15/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/led_array.proto
+[16/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/bezier_curve.proto
+[17/365] Generating include/generated/syscall_dispatch.c, include/generated/syscall_list.h
+[18/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/can.proto
+[19/365] Generating include/generated/driver-validation.h
+[20/365] Generating include/generated/kobj-types-enum.h, include/generated/otype-to-str.h, include/generated/otype-to-size.h
+[21/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/nav_sat_status.proto
+[22/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/point.proto
+[23/365] Building C object zephyr/CMakeFiles/offsets.dir/arch/posix/core/offsets/offsets.c.obj
+[24/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/odometry.proto
+[25/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/pose.proto
+[26/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/quaternion.proto
+[27/365] Generating include/generated/version.h
+-- Zephyr version: 3.5.99 (/home/mohit/cognipilot/ws/zephyr), build: 041076e59611
+[28/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/nav_sat_fix.proto
+[29/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/pose_with_covariance.proto
+[30/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/safety.proto
+[31/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/sim_clock.proto
+[32/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/status.proto
+[33/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/time.proto
+[34/365] Generating include/generated/offsets.h
+[35/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/timeutil.c.obj
+[36/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/twist.proto
+[37/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/hex.c.obj
+[38/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/dec.c.obj
+[39/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/cbprintf_packaged.c.obj
+[40/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/sem.c.obj
+[41/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/rb.c.obj
+[42/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/thread_entry.c.obj
+[43/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/heap.c.obj
+[44/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/printk.c.obj
+[45/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/heap-validate.c.obj
+[46/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/multi_heap.c.obj
+[47/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/bitarray.c.obj
+[48/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/fdtable.c.obj
+[49/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/cbprintf_complete.c.obj
+[50/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/cbprintf.c.obj
+[51/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/ring_buffer.c.obj
+[52/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/logging/log_cache.c.obj
+[53/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/assert.c.obj
+[54/365] Building C object zephyr/CMakeFiles/zephyr.dir/lib/os/mpsc_pbuf.c.obj
+[55/365] Building C object zephyr/CMakeFiles/zephyr.dir/misc/generated/configs.c.obj
+[56/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/wheel_odometry.proto
+[57/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/tracing/tracing_none.c.obj
+[58/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/vector3.proto
+[59/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/logging/log_mgmt.c.obj
+[60/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/logging/log_core.c.obj
+[61/365] Running C++ protocol buffer compiler using nanopb plugin on /home/mohit/cognipilot/ws/modules/lib/synapse_protobuf/proto/twist_with_covariance.proto
+[62/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/logging/log_output.c.obj
+[63/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/logging/log_msg.c.obj
+[64/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/logging/log_cmds.c.obj
+[65/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/modules/device_service.c.obj
+[66/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/modules/kernel_service.c.obj
+[67/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/modules/devmem_service.c.obj
+[68/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/backends/shell_uart.c.obj
+[69/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/net/lib/utils/addr_utils.c.obj
+[70/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/shell_ops.c.obj
+[71/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/shell.c.obj
+[72/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/shell_fprintf.c.obj
+[73/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/shell_utils.c.obj
+[74/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/shell_log_backend.c.obj
+[75/365] Building C object CMakeFiles/app.dir/src/casadi/gen/b3rb.c.obj
+[76/365] Building C object CMakeFiles/app.dir/src/main.c.obj
+[77/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/shell_help.c.obj
+[78/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/shell_history.c.obj
+[79/365] Generating linker_zephyr_pre0.cmd
+[80/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/shell_cmds.c.obj
+[81/365] Building C object zephyr/CMakeFiles/zephyr.dir/subsys/shell/shell_wildcard.c.obj
+[82/365] Building C object zephyr/arch/arch/posix/core/CMakeFiles/arch__posix__core.dir/cpuhalt.c.obj
+[83/365] Building C object zephyr/CMakeFiles/zephyr_pre0.dir/misc/empty_file.c.obj
+[84/365] Building C object zephyr/arch/arch/posix/core/CMakeFiles/arch__posix__core.dir/irq.c.obj
+[85/365] Building C object zephyr/arch/arch/posix/core/CMakeFiles/arch__posix__core.dir/fatal.c.obj
+[86/365] Building C object zephyr/arch/arch/posix/core/CMakeFiles/arch__posix__core.dir/posix_core_nsi.c.obj
+[87/365] Building C object zephyr/soc/soc/posix/inf_clock/CMakeFiles/soc__posix__inf_clock.dir/native_tasks.c.obj
+[88/365] Building C object CMakeFiles/app.dir/src/mixing.c.obj
+[89/365] Building C object zephyr/boards/posix/native_sim/CMakeFiles/boards__posix__native_sim.dir/cmdline.c.obj
+[90/365] Building C object CMakeFiles/app.dir/src/fsm.c.obj
+[91/365] Building C object zephyr/arch/arch/posix/core/CMakeFiles/arch__posix__core.dir/swap.c.obj
+[92/365] Building C object zephyr/arch/arch/posix/core/CMakeFiles/arch__posix__core.dir/thread.c.obj
+[93/365] Building C object CMakeFiles/app.dir/src/manual.c.obj
+[94/365] Building C object zephyr/boards/posix/native_sim/CMakeFiles/boards__posix__native_sim.dir/misc.c.obj
+[95/365] Building C object zephyr/boards/posix/native_sim/CMakeFiles/boards__posix__native_sim.dir/posix_arch_if.c.obj
+[96/365] Building C object zephyr/boards/posix/native_sim/CMakeFiles/boards__posix__native_sim.dir/cpu_wait.c.obj
+[97/365] Building C object CMakeFiles/app.dir/src/estimate.c.obj
+[98/365] Building C object CMakeFiles/app.dir/src/lighting.c.obj
+[99/365] Building C object CMakeFiles/app.dir/src/velocity.c.obj
+[100/365] Linking C static library zephyr/libzephyr.a
+[101/365] Building C object zephyr/boards/posix/native_sim/CMakeFiles/boards__posix__native_sim.dir/nsi_if.c.obj
+[102/365] Building C object zephyr/soc/soc/posix/inf_clock/CMakeFiles/soc__posix__inf_clock.dir/soc.c.obj
+[103/365] Building C object zephyr/boards/posix/native_sim/CMakeFiles/boards__posix__native_sim.dir/irq_handler.c.obj
+[104/365] Building C object CMakeFiles/app.dir/src/position.c.obj
+[105/365] Building C object zephyr/subsys/random/CMakeFiles/subsys__random.dir/rand32_entropy_device.c.obj
+[106/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/buf.c.obj
+[107/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/buf_simple.c.obj
+[108/365] Linking C static library zephyr/arch/arch/posix/core/libarch__posix__core.a
+[109/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/sockets/getaddrinfo.c.obj
+[110/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/sockets/sockets_misc.c.obj
+[111/365] Linking C static library zephyr/soc/soc/posix/inf_clock/libsoc__posix__inf_clock.a
+[112/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/sockets/sockets_select.c.obj
+[113/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/sockets/getnameinfo.c.obj
+[114/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/allocs.c.obj
+[115/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/net_shell.c.obj
+[116/365] Linking C static library zephyr/boards/posix/native_sim/libboards__posix__native_sim.a
+[117/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/sockets/sockets.c.obj
+[118/365] Linking C static library zephyr/subsys/random/libsubsys__random.a
+[119/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/arp.c.obj
+[120/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/capture.c.obj
+[121/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/conn.c.obj
+[122/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/dns.c.obj
+[123/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/events.c.obj
+[124/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/ipv4.c.obj
+[125/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/gptp.c.obj
+[126/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/ipv6.c.obj
+[127/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/iface.c.obj
+[128/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/nbr.c.obj
+[129/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/mem.c.obj
+[130/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/pkt.c.obj
+[131/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/ping.c.obj
+[132/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/ppp.c.obj
+[133/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/resume.c.obj
+[134/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/route.c.obj
+[135/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/suspend.c.obj
+[136/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/sockets.c.obj
+[137/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/stats.c.obj
+[138/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/virtual.c.obj
+[139/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/udp.c.obj
+[140/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/tcp.c.obj
+[141/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/websocket.c.obj
+[142/365] Building C object zephyr/subsys/net/l2/ethernet/CMakeFiles/subsys__net__l2__ethernet.dir/ethernet.c.obj
+[143/365] Building C object zephyr/subsys/net/l2/ethernet/CMakeFiles/subsys__net__l2__ethernet.dir/ethernet_stats.c.obj
+[144/365] Building C object zephyr/subsys/net/CMakeFiles/subsys__net.dir/lib/shell/vlan.c.obj
+[145/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/net_timeout.c.obj
+[146/365] Building C object zephyr/subsys/net/l2/ethernet/CMakeFiles/subsys__net__l2__ethernet.dir/arp.c.obj
+[147/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/net_core.c.obj
+[148/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/utils.c.obj
+[149/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/net_mgmt.c.obj
+[150/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/icmp.c.obj
+[151/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/net_if.c.obj
+[152/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/net_tc.c.obj
+[153/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/igmp.c.obj
+[154/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/connection.c.obj
+[155/365] Linking C static library zephyr/subsys/net/l2/ethernet/libsubsys__net__l2__ethernet.a
+[156/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/net_pkt.c.obj
+[157/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/icmpv4.c.obj
+[158/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/ipv4.c.obj
+[159/365] Linking C static library zephyr/subsys/net/libsubsys__net.a
+[160/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/net_context.c.obj
+[161/365] Building C object zephyr/drivers/console/CMakeFiles/drivers__console.dir/posix_arch_console.c.obj
+[162/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/net_stats.c.obj
+[163/365] Building C object zephyr/drivers/entropy/CMakeFiles/drivers__entropy.dir/fake_entropy_native_posix.c.obj
+[164/365] Building C object modules/synapse_tinyframe/CMakeFiles/synapse_tinyframe.dir/home/mohit/cognipilot/ws/modules/lib/synapse_tinyframe/src/TinyFrame.c.obj
+[165/365] Building C object modules/synapse_tinyframe/CMakeFiles/synapse_tinyframe.dir/home/mohit/cognipilot/ws/modules/lib/synapse_tinyframe/src/utils.c.obj
+[166/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/udp.c.obj
+[167/365] Building C object zephyr/drivers/console/CMakeFiles/drivers__console.dir/uart_console.c.obj
+[168/365] Building C object modules/nanopb/CMakeFiles/modules__nanopb.dir/home/mohit/cognipilot/ws/modules/lib/nanopb/pb_common.c.obj
+[169/365] Building C object zephyr/subsys/net/lib/config/CMakeFiles/subsys__net__lib__config.dir/init.c.obj
+[170/365] Building C object modules/nanopb/CMakeFiles/modules__nanopb.dir/home/mohit/cognipilot/ws/modules/lib/nanopb/pb_encode.c.obj
+[171/365] Building C object zephyr/drivers/timer/CMakeFiles/drivers__timer.dir/sys_clock_init.c.obj
+[172/365] Building C object modules/nanopb/CMakeFiles/modules__nanopb.dir/home/mohit/cognipilot/ws/modules/lib/nanopb/pb_decode.c.obj
+[173/365] Building C object zephyr/drivers/serial/CMakeFiles/drivers__serial.dir/uart_native_ptty.c.obj
+[174/365] Building C object zephyr/drivers/timer/CMakeFiles/drivers__timer.dir/native_posix_timer.c.obj
+[175/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/asn1write.c.obj
+[176/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/asn1parse.c.obj
+[177/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/base64.c.obj
+[178/365] Building C object zephyr/drivers/ethernet/CMakeFiles/drivers__ethernet.dir/eth_native_posix.c.obj
+[179/365] Linking C static library zephyr/drivers/entropy/libdrivers__entropy.a
+[180/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/nist_kw.c.obj
+[181/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/bignum_core.c.obj
+[182/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/bignum.c.obj
+[183/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/bignum_mod.c.obj
+[184/365] Linking C static library modules/synapse_tinyframe/libsynapse_tinyframe.a
+[185/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/bignum_mod_raw.c.obj
+[186/365] Linking C static library zephyr/subsys/net/lib/config/libsubsys__net__lib__config.a
+[187/365] Linking C static library zephyr/drivers/console/libdrivers__console.a
+[188/365] Linking C static library zephyr/drivers/serial/libdrivers__serial.a
+[189/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/oid.c.obj
+[190/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/padlock.c.obj
+[191/365] Building C object zephyr/subsys/net/ip/CMakeFiles/subsys__net__ip.dir/tcp.c.obj
+[192/365] Linking C static library zephyr/drivers/timer/libdrivers__timer.a
+[193/365] Linking C static library modules/nanopb/libmodules__nanopb.a
+[194/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/platform_util.c.obj
+[195/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/version.c.obj
+[196/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/platform.c.obj
+[197/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/aesni.c.obj
+[198/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/aria.c.obj
+[199/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/camellia.c.obj
+[200/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/aes.c.obj
+[201/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ccm.c.obj
+[202/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/chacha20.c.obj
+[203/365] Linking C static library zephyr/drivers/ethernet/libdrivers__ethernet.a
+[204/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/constant_time.c.obj
+[205/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/cipher.c.obj
+[206/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/cipher_wrap.c.obj
+[207/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/chachapoly.c.obj
+[208/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/cmac.c.obj
+[209/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/debug.c.obj
+[210/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/dhm.c.obj
+[211/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ecdsa.c.obj
+[212/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ctr_drbg.c.obj
+[213/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/des.c.obj
+[214/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ecdh.c.obj
+[215/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ecp.c.obj
+[216/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ecp_curves.c.obj
+[217/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/error.c.obj
+[218/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/gcm.c.obj
+[219/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ecjpake.c.obj
+[220/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/entropy.c.obj
+[221/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/entropy_poll.c.obj
+[222/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/hmac_drbg.c.obj
+[223/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/hash_info.c.obj
+[224/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/hkdf.c.obj
+[225/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/lmots.c.obj
+[226/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/lms.c.obj
+[227/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/md5.c.obj
+[228/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/mps_reader.c.obj
+[229/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/memory_buffer_alloc.c.obj
+[230/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/psa_util.c.obj
+[231/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/mps_trace.c.obj
+[232/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/rsa_alt_helpers.c.obj
+[233/365] Linking C static library zephyr/subsys/net/ip/libsubsys__net__ip.a
+[234/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ripemd160.c.obj
+[235/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/poly1305.c.obj
+[236/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/md.c.obj
+[237/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/threading.c.obj
+[238/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/sha1.c.obj
+[239/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/sha256.c.obj
+[240/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/version_features.c.obj
+[241/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/sha512.c.obj
+[242/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/timing.c.obj
+[243/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSCrypto.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/psa_crypto_slot_management.c.obj
+[244/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/rsa.c.obj
+[245/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSCrypto.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/pem.c.obj
+[246/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSCrypto.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/pkcs5.c.obj
+[247/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSCrypto.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/pkcs12.c.obj
+[248/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSCrypto.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/pkwrite.c.obj
+[249/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSCrypto.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/psa_crypto.c.obj
+[250/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSCrypto.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/psa_crypto_client.c.obj
+[251/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSCrypto.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/pkparse.c.obj
+[252/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSX509.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/x509_create.c.obj
+[253/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSX509.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/x509_crl.c.obj
+[254/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSCrypto.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/pk_wrap.c.obj
+[255/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSCrypto.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/pk.c.obj
+[256/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSX509.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/x509.c.obj
+[257/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSX509.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/x509write_crt.c.obj
+[258/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSX509.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/x509_csr.c.obj
+[259/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSX509.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/x509write_csr.c.obj
+[260/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/net_sockets.c.obj
+[261/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_cache.c.obj
+[262/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSX509.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/x509_crt.c.obj
+[263/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_debug_helpers_generated.c.obj
+[264/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_cookie.c.obj
+[265/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_ticket.c.obj
+[266/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_tls13_generic.c.obj
+[267/365] Building C object modules/mbedtls/CMakeFiles/mbedTLSBase.dir/zephyr_init.c.obj
+[268/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_tls13_keys.c.obj
+[269/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_ciphersuites.c.obj
+[270/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_tls13_client.c.obj
+[271/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_client.c.obj
+[272/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_msg.c.obj
+[273/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_tls13_server.c.obj
+[274/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/altimeter.pb.c.obj
+[275/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_tls12_server.c.obj
+[276/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_tls12_client.c.obj
+[277/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/actuators.pb.c.obj
+[278/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/bezier_curve.pb.c.obj
+[279/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/bezier_trajectory.pb.c.obj
+[280/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/battery_state.pb.c.obj
+[281/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/header.pb.c.obj
+[282/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/can.pb.c.obj
+[283/365] Linking C static library modules/mbedtls/libmbedTLSCrypto.a
+[284/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/joy.pb.c.obj
+[285/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/imu.pb.c.obj
+[286/365] Building C object modules/mbedtls/CMakeFiles/modules__mbedtls.dir/home/mohit/cognipilot/ws/modules/crypto/mbedtls/library/ssl_tls.c.obj
+[287/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/led.pb.c.obj
+[288/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/led_array.pb.c.obj
+[289/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/nav_sat_fix.pb.c.obj
+[290/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/nav_sat_status.pb.c.obj
+[291/365] Linking C static library modules/mbedtls/libmbedTLSX509.a
+[292/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/odometry.pb.c.obj
+[293/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/magnetic_field.pb.c.obj
+[294/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/point.pb.c.obj
+[295/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/pose.pb.c.obj
+[296/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/pose_with_covariance.pb.c.obj
+[297/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/safety.pb.c.obj
+[298/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/quaternion.pb.c.obj
+[299/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/time.pb.c.obj
+[300/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/sim_clock.pb.c.obj
+[301/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/status.pb.c.obj
+[302/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/wheel_odometry.pb.c.obj
+[303/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/twist.pb.c.obj
+[304/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/twist_with_covariance.pb.c.obj
+[305/365] Building C object modules/synapse_protobuf/CMakeFiles/synapse_protobuf.dir/vector3.pb.c.obj
+[306/365] Linking C static library modules/mbedtls/libmbedTLSBase.a
+[307/365] Building C object modules/cerebri/lib/core/workqueues/CMakeFiles/zephyr_core_workqueues.dir/src/workq.c.obj
+[308/365] Building C object modules/cerebri/lib/core/common/CMakeFiles/cerebri_core_common.dir/src/common.c.obj
+[309/365] Building C object modules/cerebri/lib/synapse/eth_rx/CMakeFiles/cerebri_synapse_eth_rx.dir/src/proto/udp_rx.c.obj
+[310/365] Building C object modules/cerebri/lib/synapse/zros/CMakeFiles/cerebri_synapse_zros.dir/src/zros_node.c.obj
+[311/365] Building C object modules/cerebri/lib/dream/sil/CMakeFiles/cerebri_dream_sil.dir/native_main.c.obj
+[312/365] Linking C static library modules/synapse_protobuf/libsynapse_protobuf.a
+[313/365] Building C object modules/cerebri/lib/synapse/eth_tx/CMakeFiles/cerebri_synapse_eth_tx.dir/src/proto/udp_tx.c.obj
+[314/365] Linking C static library modules/mbedtls/libmodules__mbedtls.a
+[315/365] Linking C static library modules/cerebri/lib/core/common/libcerebri_core_common.a
+[316/365] Linking C static library modules/cerebri/lib/core/workqueues/libzephyr_core_workqueues.a
+[317/365] Building C object modules/cerebri/lib/synapse/zros/CMakeFiles/cerebri_synapse_zros.dir/src/zros_broker.c.obj
+[318/365] Building C object modules/cerebri/lib/synapse/zros/CMakeFiles/cerebri_synapse_zros.dir/src/zros_pub.c.obj
+[319/365] Building C object modules/cerebri/lib/synapse/zros/CMakeFiles/cerebri_synapse_zros.dir/src/zros_sub.c.obj
+[320/365] Building C object modules/cerebri/lib/synapse/topic/CMakeFiles/cerebri_synapse_topic.dir/src/synapse_topic_list.c.obj
+[321/365] Linking C static library app/libapp.a
+[322/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/main_weak.c.obj
+[323/365] Building C object modules/cerebri/lib/dream/sil/CMakeFiles/cerebri_dream_sil.dir/zephyr_main.c.obj
+[324/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/device.c.obj
+[325/365] Building C object modules/cerebri/lib/synapse/zros/CMakeFiles/cerebri_synapse_zros.dir/src/zros_topic.c.obj
+[326/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/banner.c.obj
+[327/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/busy_wait.c.obj
+[328/365] Building C object modules/cerebri/lib/synapse/topic/CMakeFiles/cerebri_synapse_topic.dir/src/synapse_shell_print.c.obj
+[329/365] Building C object modules/cerebri/lib/synapse/eth_tx/CMakeFiles/cerebri_synapse_eth_tx.dir/src/main.c.obj
+[330/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/errno.c.obj
+[331/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/version.c.obj
+[332/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/fatal.c.obj
+[333/365] Building C object modules/cerebri/lib/synapse/eth_rx/CMakeFiles/cerebri_synapse_eth_rx.dir/src/main.c.obj
+[334/365] Building C object modules/cerebri/lib/synapse/topic/CMakeFiles/cerebri_synapse_topic.dir/src/synapse_topic.c.obj
+[335/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/init.c.obj
+[336/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/kheap.c.obj
+[337/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/mem_slab.c.obj
+[338/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/thread.c.obj
+[339/365] Linking C static library modules/cerebri/lib/dream/sil/libcerebri_dream_sil.a
+[340/365] Linking C static library modules/cerebri/lib/synapse/zros/libcerebri_synapse_zros.a
+[341/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/idle.c.obj
+[342/365] Linking C static library modules/cerebri/lib/synapse/eth_tx/libcerebri_synapse_eth_tx.a
+[343/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/mailbox.c.obj
+[344/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/msg_q.c.obj
+[345/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/queue.c.obj
+[346/365] Linking C static library modules/cerebri/lib/synapse/eth_rx/libcerebri_synapse_eth_rx.a
+[347/365] Linking C static library modules/cerebri/lib/synapse/topic/libcerebri_synapse_topic.a
+[348/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/mutex.c.obj
+[349/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/stack.c.obj
+[350/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/system_work_q.c.obj
+[351/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/condvar.c.obj
+[352/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/sem.c.obj
+[353/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/work.c.obj
+[354/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/timeout.c.obj
+[355/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/poll.c.obj
+[356/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/timer.c.obj
+[357/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/dynamic_disabled.c.obj
+[358/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/sched.c.obj
+[359/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/usage.c.obj
+[360/365] Building C object zephyr/kernel/CMakeFiles/kernel.dir/mempool.c.obj
+[361/365] Linking C static library zephyr/kernel/libkernel.a
+[362/365] Linking C executable zephyr/zephyr.elf
+[363/365] Building native simulator runner, and linking final executable
+[364/365] cd /home/mohit/cognipilot/ws/cerebri/build/zephyr && /opt/.venv-zephyr/bin/python3 /home/mohit/cognipilot/ws/zephyr/scripts/build/check_init_priorities.py --elf-file=/home/mohit/cognipilot/ws/cerebri/build/zephyr/zephyr.exe
+[364/365] Install the project...
+-- Install configuration: ""
+-- Installing: /home/mohit/cognipilot/ws/cerebri/build/../install/bin/cerebri_b3rb_native_sim
+-- Installing: /home/mohit/cognipilot/ws/cerebri/build/../install/setup.sh
+[2;34mBUILD:[0m[2;32m Updating all existing packages in electrode[0m
+..
+=== ./foxglove-cognipilot-joy (git) ===
+Already up to date.
+=== ./src/electrode (git) ===
+Already up to date.
+[2;34mBUILD:[0m[2;32m Running colcon to build electrode ROS packages[0m
+Starting >>> electrode
+Finished <<< electrode [0.96s]
+
+Summary: 1 package finished [1.15s]
+[2;32mCogniPilot workspace builder has finished!
+Please source your .bashrc:[0m[31m
+	source ~/.bashrc[0m

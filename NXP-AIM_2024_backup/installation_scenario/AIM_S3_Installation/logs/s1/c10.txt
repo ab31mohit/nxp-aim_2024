@@ -1,0 +1,25 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages were automatically installed and are no longer required:
+  libwpe-1.0-1 libwpebackend-fdo-1.0-1
+Use 'sudo apt autoremove' to remove them.
+Get more security updates through Ubuntu Pro with 'esm-apps' enabled:
+  libpostproc-dev libde265-dev libheif1 libjs-jquery-ui libpathplan4
+  libopenexr-dev graphviz libavdevice58 libgvpr2 libgvc6 libopenexr25
+  python3-scipy libpostproc55 libcgraph6 libswscale-dev libcdt5
+  libavdevice-dev libavcodec58 libavutil56 libswscale5 libheif-dev
+  libavutil-dev libgsl27 liblab-gamut1 libswresample3 libavfilter-dev
+  libavformat58 libpmix-dev libgslcblas0 libavformat-dev libavcodec-dev
+  libde265-0 libpmix2 libswresample-dev libavfilter7
+Learn more about Ubuntu Pro at https://ubuntu.com/pro
+The following packages have been kept back:
+  graphviz libcdt5 libcgraph6 libgvc6 libgvpr2 liblab-gamut1 libpathplan4
+  python3-update-manager update-manager update-manager-core
+The following packages will be upgraded:
+  brave-browser xdg-desktop-portal-gnome
+2 upgraded, 0 newly installed, 0 to remove and 10 not upgraded.
+Need to get 118 MB of archives.
+After this operation, 18.4 kB disk space will be freed.
+Do you want to continue? [Y/n] Abort.

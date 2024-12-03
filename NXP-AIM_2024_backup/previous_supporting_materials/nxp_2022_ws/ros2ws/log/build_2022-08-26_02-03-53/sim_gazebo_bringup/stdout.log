@@ -1,0 +1,25 @@
+-- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/trish/ros2ws/build/sim_gazebo_bringup
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup//launch/sim_gazebo.launch.py
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/ament_index/resource_index/package_run_dependencies/sim_gazebo_bringup
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/ament_index/resource_index/parent_prefix_path/sim_gazebo_bringup
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/ament_prefix_path.sh
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/ament_prefix_path.dsv
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/path.sh
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/path.dsv
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.bash
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.sh
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.zsh
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.dsv
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/package.dsv
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/ament_index/resource_index/packages/sim_gazebo_bringup
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/cmake/sim_gazebo_bringupConfig.cmake
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/cmake/sim_gazebo_bringupConfig-version.cmake
+-- Symlinking: /home/trish/ros2ws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/package.xml

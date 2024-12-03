@@ -1,0 +1,1 @@
+/home/trish/ros2ws/build/nxp_cup_interfaces/rosidl_generator_c/nxp_cup_interfaces/msg/rosidl_generator_c__visibility_control.h
